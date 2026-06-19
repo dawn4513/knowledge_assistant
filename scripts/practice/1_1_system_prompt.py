@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 """
 @File    : system_prompt.py
-@Time    : 2026/6/19 18:00
+@Time    : 2026/6/19 7:00
 @Desc    : prompt 调试, system prompt + user prompt, 测试不同的 system prompt 对模型输出的影响
 """
 import time
